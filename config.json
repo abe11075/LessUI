@@ -92,5 +92,47 @@
             "SECRET",
             "FORGOTTEN"
         ]
+    },
+    "Webhook": {
+        "Fish": {
+            "Enabled": true,
+            "Url": "https://discord.com/api/webhooks/1493389843911147640/IRG1dk0f1OVuXhmbOqLn3tbFWuauWGRn2ixz1CgpizU_aUZgKFF8iu8vm76ropFTdEfW",
+            "UserId": "1079089867985788938",
+            "HideIdentity": "sefsef",
+            "FilterName": [],
+            "FilterVariant": [],
+            "FilterRarity": [
+                "Rare",
+                "Mythic",
+                "SECRET",
+                "FORGOTTEN"
+            ]
+        },
+        "Disconnect": {
+            "Enabled": false,
+            "Url": "",
+            "UserId": "",
+            "HideIdentity": ""
+        },
+        "Server": {
+            "Enabled": false,
+            "Url": "",
+            "JoinLeaveUrl": "",
+            "CustomName": "",
+            "TrackJoin": true,
+            "TrackLeave": true,
+            "Tiers": [
+                "Epic",
+                "Legendary",
+                "Mythic",
+                "SECRET",
+                "FORGOTTEN"
+            ]
+        },
+        "Event": {
+            "Enabled": false,
+            "Url": "",
+            "SelectedEvents": []
+        }
     }
 }
