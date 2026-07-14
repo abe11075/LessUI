@@ -28,7 +28,7 @@
         "AutoShake": false
     },
     "InstantFishing": {
-        "Enabled": false,
+        "Enabled": true,
         "CastMode": "perfect",
         "CompleteDelay": 0.01
     },
