@@ -1,15 +1,15 @@
 {
     "Support": {
-        "NoFishingAnimation": false,
+        "NoFishingAnimation": true,
         "AutoEquipRod": false,
         "BypassRadar": false,
         "LockPosition": false,
         "ShowPingPanel": true,
-        "DisableCutscenes": false,
-        "DisableFishNotif": false,
-        "DisableSkinEffect": false,
-        "WalkOnWater": false,
-        "AutoEquipDivingGear": false,
+        "DisableCutscenes": true,
+        "DisableFishNotif": true,
+        "DisableSkinEffect": true,
+        "WalkOnWater": true,
+        "AutoEquipDivingGear": true,
         "HideOtherPlayers": false,
         "DisableAbilityVFX": false
     },
