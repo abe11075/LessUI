@@ -1,0 +1,53 @@
+{
+    "Support": {
+        "NoFishingAnimation": true,
+        "AutoEquipRod": true,
+        "BypassRadar": false,
+        "LockPosition": false,
+        "ShowPingPanel": true,
+        "DisableCutscenes": true,
+        "DisableFishNotif": true,
+        "DisableSkinEffect": true,
+        "WalkOnWater": true,
+        "AutoEquipDivingGear": true,
+        "HideOtherPlayers": false,
+        "DisableAbilityVFX": false
+    },
+    "StableResult": {
+        "Enabled": false
+    },
+    "SkipRarity": {
+        "Enabled": false,
+        "TargetRarities": [
+            "None"
+        ]
+    },
+    "LegitFishing": {
+        "Enabled": false,
+        "ShakeDelay": 0.05,
+        "AutoShake": false
+    },
+    "InstantFishing": {
+        "Enabled": false,
+        "CastMode": "perfect",
+        "CompleteDelay": 0.01
+    },
+    "InstantFastReel": {
+        "Enabled": false,
+        "CastMode": "normal",
+        "CompleteDelay": 0.02
+    },
+    "UltraBlatant": {
+        "Enabled": false,
+        "CompleteDelay": 0.3
+    },
+    "BlatantV2": {
+        "Enabled": false,
+        "SpamDelay": 0.05,
+        "CompleteDelay": 0.01,
+        "ChargeSpam": 2
+    },
+    "AutoCraft": {
+        "Enabled": false
+    }
+}
