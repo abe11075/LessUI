@@ -63,5 +63,25 @@
             "Wind",
             "Fog"
         ]
+    },
+    "Protection": {
+        "AntiAFK": true,
+        "AntiStaff": true
+    },
+    "Performance": {
+        "PotatoMode": true
+    },
+    "NotificationPosition": {
+        "Enabled": true,
+        "Position": "Kanan"
+    },
+    "HideStats": {
+        "Enabled": true,
+        "ShowScriptTitle": true,
+        "PremiumLogo": false,
+        "VerifyLogo": false,
+        "FakeName": "LynX",
+        "FakeLevel": "501",
+        "ScriptName": "discord.gg/lynxx"
     }
 }
