@@ -1,7 +1,7 @@
 {
     "Support": {
         "NoFishingAnimation": true,
-        "AutoEquipRod": false,
+        "AutoEquipRod": true,
         "BypassRadar": false,
         "LockPosition": false,
         "ShowPingPanel": true,
@@ -18,7 +18,9 @@
     },
     "SkipRarity": {
         "Enabled": false,
-        "TargetRarities": ["None"]
+        "TargetRarities": [
+            "None"
+        ]
     },
     "LegitFishing": {
         "Enabled": false,
@@ -26,7 +28,7 @@
         "AutoShake": false
     },
     "InstantFishing": {
-        "Enabled": true,
+        "Enabled": false,
         "CastMode": "perfect",
         "CompleteDelay": 0.01
     },
@@ -47,5 +49,19 @@
     },
     "AutoCraft": {
         "Enabled": false
+    },
+    "AutoSell": {
+        "Enabled": true,
+        "Mode": "By Count",
+        "Interval": 5,
+        "Target": 235
+    },
+    "AutoBuyWeather": {
+        "Enabled": true,
+        "Selected": [
+            "Storm",
+            "Wind",
+            "Fog"
+        ]
     }
 }
