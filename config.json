@@ -83,5 +83,14 @@
         "FakeName": "LynX",
         "FakeLevel": "501",
         "ScriptName": "discord.gg/lynxx"
+    },
+    "AutoFavorite": {
+        "Enabled": true,
+        "Name": [],
+        "Variant": [],
+        "Rarity": [
+            "SECRET",
+            "FORGOTTEN"
+        ]
     }
 }
