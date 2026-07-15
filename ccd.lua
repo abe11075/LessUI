@@ -49,8 +49,8 @@
         "Enabled": false
     },
     "AutoSell": {
-        "Enabled": false,
-        "Mode": "ByCount",
+        "Enabled": true,
+        "Mode": "By Count",
         "Value": 500
     },
     "AutoBuyWeather": {
