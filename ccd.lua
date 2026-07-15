@@ -9,7 +9,7 @@
         "DisableFishNotif": true,
         "DisableSkinEffect": true,
         "WalkOnWater": true,
-        "AutoEquipDivingGear": false,
+        "AutoEquipDivingGear": true,
         "HideOtherPlayers": false,
         "DisableAbilityVFX": false
     },
@@ -73,7 +73,7 @@
         ]
     },
     "AutoSpawnTotem": {
-        "Enabled": false,
+        "Enabled": true,
         "TotemName": "Mutation Totem"
     },
     "AutoSpawnTotem4x": {
@@ -87,7 +87,7 @@
         "Enabled": true
     },
     "AntiStaff": {
-        "Enabled": false
+        "Enabled": true
     },
     "Performance": {
         "FPSBooster": true,
