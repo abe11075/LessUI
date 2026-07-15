@@ -73,7 +73,7 @@
         ]
     },
     "AutoSpawnTotem": {
-        "Enabled": true,
+        "Enabled": false,
         "TotemName": "Mutation Totem"
     },
     "AutoSpawnTotem4x": {
