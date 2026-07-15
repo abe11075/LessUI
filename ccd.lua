@@ -9,7 +9,7 @@
         "DisableFishNotif": true,
         "DisableSkinEffect": true,
         "WalkOnWater": true,
-        "AutoEquipDivingGear": true,
+        "AutoEquipDivingGear": false,
         "HideOtherPlayers": false,
         "DisableAbilityVFX": false
     },
