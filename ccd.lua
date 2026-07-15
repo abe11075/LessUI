@@ -87,7 +87,7 @@
         "Enabled": true
     },
     "AntiStaff": {
-        "Enabled": true
+        "Enabled": false
     },
     "Performance": {
         "FPSBooster": true,
